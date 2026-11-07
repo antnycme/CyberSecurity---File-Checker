@@ -13,7 +13,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # CONFIGURATION
-
+Base_dir = Path('./.env')
+load_dotenv(Base_dir)
 VT_API_KEY = os.getenv("VT_API_KEY")
 
 MAX_FILE_SIZE = 100 * 1024 * 1024  # 100 MB
