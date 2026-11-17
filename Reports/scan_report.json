@@ -1,0 +1,19 @@
+[
+    {
+        "filename": "Receipt.pdf",
+        "path": "TestFiles/Receipt.pdf",
+        "scan_time": "2026-11-17T00:32:40.032979+00:00",
+        "file_size": 25,
+        "detected_type": "UNKNOWN",
+        "extension": ".pdf",
+        "extension_status": "UNKNOWN",
+        "sha256": "ca759a8e18a1bb01b2c378aa6d4d4ea42b212a8107aab98ec2bb482ded09a5c9",
+        "virustotal": "NOT FOUND",
+        "risk_score": 15,
+        "severity": "LOW",
+        "findings": [
+            "Unknown file signature"
+        ],
+        "status": "COMPLETED"
+    }
+]

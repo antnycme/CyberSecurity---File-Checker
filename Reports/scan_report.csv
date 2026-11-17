@@ -1,0 +1,2 @@
+filename,path,file_size,detected_type,extension,extension_status,sha256,risk_score,severity,findings,virustotal,status,scan_time
+Receipt.pdf,TestFiles/Receipt.pdf,25,UNKNOWN,.pdf,UNKNOWN,ca759a8e18a1bb01b2c378aa6d4d4ea42b212a8107aab98ec2bb482ded09a5c9,15,LOW,Unknown file signature,"""NOT FOUND""",COMPLETED,2026-11-17T00:32:40.032979+00:00
